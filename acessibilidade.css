@@ -1,0 +1,347 @@
+*{
+
+    padding: 0;
+    margin: 0;
+
+}
+
+header{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 50px;
+
+}
+
+#a1{
+
+    border: 1px solid black;
+    width: 50px;
+    height: 20px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 15px;
+    
+    
+
+}
+
+#a2{
+
+    border: 1px solid black;
+    width: 290px;
+    height: 20px;
+    float: right;
+    margin-right: 5px;
+    margin-top: 15px;
+
+}
+
+
+
+body{
+
+    width: 100%;
+    height: 100%;
+
+}
+
+main{
+
+    margin-top: 10px;
+    
+}
+
+.arti{
+
+    /* border: 1px solid black; */
+    width: 32%;
+    height: 350px;
+    float: left;
+    margin-left: 12px;
+    margin-top: 20px;
+
+
+}
+
+.art1{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art2{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Frango\ com\ diabo\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+.art3{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Tatu\ de\ Feijão\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art4{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Vaca\ Alada\ -\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art5{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Com\ a\ fé.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art6{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Doce\ de\ Leite\ -\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art7{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Goiabada\ Cascão\ -\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art8{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Pau\ e\ beijo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art9{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Pé\ de\ moleque\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art10{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Seco\ -\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art11{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Arroz\ Sem\ Pecado\ -\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art12{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ ADA\ -\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art13{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/bife\ a\ pica\ acesa\ -\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art14{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Bife\ de\ filho\ -\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art15{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/bife\ acer\ bola\ gado\ -\ Editado.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art16{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art17{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art18{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art19{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art20{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art21{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art22{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art23{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art24{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art25{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art26{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+.art27{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 200px;
+    background-image: url(img/Feijão\ Torpedo.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+.sec{
+
+    border: 1px solid black;
+    width: 100%;
+    height: 150px;
+    margin-top: 5px;
+
+
+}
